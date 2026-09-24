@@ -20,7 +20,7 @@ h1 p h2{
 
 /* For Desktop Screen */
 
-@media (min-width:721px) {
+@media (min-width:681px) {
  
  .logo {
   max-width:260px;
@@ -63,7 +63,7 @@ h1 {
 
  /*For Mobile Devices*/
 
-@media (max-width:720px) {
+@media (max-width:680px) {
   
   .logo {
     max-width: 100px;
